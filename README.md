@@ -134,6 +134,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [undollar](https://github.com/ImFeelingDucky/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * [v](https://github.com/rupa/v) - z for vim.
 * [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [wii](https://github.com/madjoe/wii) - Measuring disk usage of specific file types recursively per each directory.
 * [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
